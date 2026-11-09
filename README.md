@@ -70,7 +70,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🧑‍💻 Developed By Maria Júlia Lazarini Oleto 
-Linkedin: https://www.linkedin.com/in/maria-j%C3%BAlia-lazarini-oleto-a29106356/
-* **[Your Name]** - Software Engineering Student
-* Connect with me on [LinkedIn]([Your LinkedIn URL Here])
+## 🧑‍💻 Developed By
+* Maria Júlia Lazarini Oleto  - Software Engineering Student at PUC Campinas.
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/maria-j%C3%BAlia-lazarini-oleto-a29106356/)
